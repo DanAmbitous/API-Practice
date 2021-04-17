@@ -1,0 +1,15 @@
+{
+  "name": "apiPractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apiPractice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Danial A",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
